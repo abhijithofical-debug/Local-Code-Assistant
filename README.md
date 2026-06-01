@@ -53,3 +53,14 @@ ai.generate_code(
 "Create a Python prime checker"
 )
 )
+## Future Roadmap
+
+I'm considering adding a cloud-powered version of Local Code Assistant that would allow users to access AI features without installing Ollama or a local LLM.
+
+Would you be interested in:
+
+* A free cloud API option?
+* A hybrid mode (Local Ollama + Cloud API)?
+* A VS Code extension with cloud support?
+
+Feel free to open an issue or discussion and share your thoughts. Your feedback will help shape future development.
